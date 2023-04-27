@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/8f77e3b3-f572-4e4b-96a5-587f2003eccf/resourceGroups/padosee_app/providers/Microsoft.Web/sites/padosee-users-api",
+    "appService.deploySubpath": "."
+}
